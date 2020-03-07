@@ -10,3 +10,8 @@
 
 ## Objective
 I am looking for an opportunity to expand my knowledge, improve my technical skills, utilize my work experience, academic background and interpersonal skills
+
+## Technical skills
+**Programming languages and technologies:** JavaScript, HTML, CSS/SASS, C++, C#
+**Frameworks and Libraries:** bootstrap, ASP.NET MVC, ASP.NET Web API, ADO.NET
+**Tools:** GIT, Webpack, VS Code, Adobe Photoshop
