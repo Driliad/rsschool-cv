@@ -7,3 +7,6 @@
 **Discord:** Folex#2313
 **GitHub:** https://github.com/driliad
 **English:** pre-intermediate (A2+)
+
+## Objective
+I am looking for an opportunity to expand my knowledge, improve my technical skills, utilize my work experience, academic background and interpersonal skills
