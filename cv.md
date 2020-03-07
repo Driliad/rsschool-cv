@@ -25,3 +25,8 @@ I am looking for an opportunity to expand my knowledge, improve my technical ski
 ### Minsk State Palace of Children and Youth (08.2019 – now)
 **Position:** Teacher of additional education
 **Activity:** Thematic clubs on web development, the basics of programming in C++ and C#
+
+## Education
+
+- [x] Belarusian State University of Informatics and Radioelectronics, *student* (bachelor's degree, 2015 — 2019).
+- [ ] Belarusian State University of Informatics and Radioelectronics, *student* (master's degree, 2019 — now).
